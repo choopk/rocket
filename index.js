@@ -1,6 +1,5 @@
 const Discord = require("discord.js");
-require("dotenv").config()
-const TOKEN = "OTMyMjg4MjU1OTMwNTQ0MTQ5.YeQzGQ.EgxIcuv_eoxlDI_YG8ni0tUte8A";
+require("dotenv").config();
 
 // Ensure bot watch for correct things
 // Discord api called discord servers guilds
